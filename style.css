@@ -1,0 +1,29 @@
+
+
+
+body {
+    text-align: center;
+}
+
+
+header {
+    background-color: #333;
+    color: #fff;
+}
+
+
+.paragraph{
+    color: blue;
+}
+
+
+main {
+    padding: 20px;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+
+}
